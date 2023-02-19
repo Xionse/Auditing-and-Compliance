@@ -1,4 +1,4 @@
-# Auditing-and-Compliance
+# Auditing and Compliance
 **Auditing and compliance** refers to the process of reviewing and verifying that a system or organization is following certain rules, regulations, or standards. In the context of software development, this may involve reviewing logs to track and audit the actions taken by users or the system to ensure that they are in compliance with relevant policies and regulations.
 
 ## Use Case
